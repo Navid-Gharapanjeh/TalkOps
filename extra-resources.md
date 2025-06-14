@@ -12,20 +12,9 @@
 #### 📝 Key Vocabulary & Phrases
 - **Take it with a pinch of salt** — express skepticism about predictions or claims
 - **Track record** — past achievements or failures  
-- **Come to pass** — happen or become true (old-fashioned)
 - **Dystopian** — nightmarish or very negative future scenario
 - **Get rid of** — remove or eliminate something
 - **Crop up** — appear unexpectedly
-- **Sequencing risk** — risk that new jobs won't appear when old jobs disappear
-- **Four-day working week** — working four days for same pay as five days
-- **Work from home / Remote work** — working from home trends
-- **Disruption from AI** — impact of artificial intelligence on employment
-- **Support for displaced workers** — helping workers affected by automation
-- **Work-life balance** — balance between work and personal life
-- **Unexpected future** — acknowledging uncertainty in future work trends
-- **Popular with bosses and workers** — acceptance of new work models
-- **Predictions for the future of work** — general topic framing
-- **New jobs will crop up** — optimistic expression about job creation
 
 #### 🤔 Discussion Questions
 1. What are some past predictions about the future of work that did not come true, and why do you think they failed?
