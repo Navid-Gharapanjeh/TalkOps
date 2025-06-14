@@ -14,18 +14,18 @@
 
 ## 📅 Session Breakdown
 
-| Session | Topic | TED/Listening | Slang Focus | Suggested Activity |
-|--------|-------|----------------|-------------|--------------------|
-| 1 | *The Power of First Impressions* | [Amy Cuddy – Body Language](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) | vibe, come off as, put together | First impressions game |
-| 2 | *AI & The Future of Jobs* | [BBC 6-min English: *AI and jobs*](https://www.youtube.com/watch?v=s1HxJVusR2w) | grind, hustle, on the clock | Debate: Will AI take your job? |
-| 3 | *Social Media & Mental Health* | [Cal Newport – Quit Social Media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media) | FOMO, ghosting, go viral | Social media detox pros/cons |
-| 4 | *Culture Shock & Life Abroad* | ESLDiscussion: Culture | homesick, jet lag, fish out of water | Share culture shock experiences |
-| 5 | *Success & Failure* | TED: Angela Duckworth – Grit | level up, blow it, bounce back | Talk about your proudest win and fail |
-| 6 | *Relationships & Friendships* | BBC 6-min: *Digital Friendship* | ghost, clingy, hang out | Role-play a friendship conflict |
-| 7 | *Technology Addiction* | [Tristan Harris – Hijack Minds](https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention) | doomscroll, unplug, crash | Screen time quiz + reflection |
-| 8 | *Creativity & Side Projects* | TED: Elizabeth Gilbert – Genius | side hustle, spark, in the zone | Describe your dream project |
-| 9 | *Climate Change & Action* | ESL: Environment | go green, carbon footprint, off the grid | Plan a sustainable week |
-| 10 | *Street English Game Day* | Choose 3 slang videos | Review of all learned slang | Slang quiz + freestyle discussion |
+| Session | Topic | TED/Listening | Slang Focus | Suggested Activity | Extra Resources |
+|--------|-------|----------------|-------------|--------------------|--------------------|
+| 1 | *The Power of First Impressions* | [Amy Cuddy – Body Language](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) | vibe, come off as, put together | First impressions game | [📚 Session 1 Resources](extra-resources.md#session-1) |
+| 2 | *AI & The Future of Jobs* | [BBC 6-min English: *AI and jobs*](https://www.youtube.com/watch?v=s1HxJVusR2w) | grind, hustle, on the clock | Debate: Will AI take your job? | [📚 Session 2 Resources](extra-resources.md#session-2) |
+| 3 | *Social Media & Mental Health* | [Cal Newport – Quit Social Media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media) | FOMO, ghosting, go viral | Social media detox pros/cons | [📚 Session 3 Resources](extra-resources.md#session-3) |
+| 4 | *Culture Shock & Life Abroad* | ESLDiscussion: Culture | homesick, jet lag, fish out of water | Share culture shock experiences | [📚 Session 4 Resources](extra-resources.md#session-4) |
+| 5 | *Success & Failure* | TED: Angela Duckworth – Grit | level up, blow it, bounce back | Talk about your proudest win and fail | [📚 Session 5 Resources](extra-resources.md#session-5) |
+| 6 | *Relationships & Friendships* | BBC 6-min: *Digital Friendship* | ghost, clingy, hang out | Role-play a friendship conflict | [📚 Session 6 Resources](extra-resources.md#session-6) |
+| 7 | *Technology Addiction* | [Tristan Harris – Hijack Minds](https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention) | doomscroll, unplug, crash | Screen time quiz + reflection | [📚 Session 7 Resources](extra-resources.md#session-7) |
+| 8 | *Creativity & Side Projects* | TED: Elizabeth Gilbert – Genius | side hustle, spark, in the zone | Describe your dream project | [📚 Session 8 Resources](extra-resources.md#session-8) |
+| 9 | *Climate Change & Action* | ESL: Environment | go green, carbon footprint, off the grid | Plan a sustainable week | [📚 Session 9 Resources](extra-resources.md#session-9) |
+| 10 | *Street English Game Day* | Choose 3 slang videos | Review of all learned slang | Slang quiz + freestyle discussion | [📚 Session 10 Resources](extra-resources.md#session-10) |
 
 ---
 
