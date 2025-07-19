@@ -41,7 +41,76 @@
 ---
 
 ## Session 3
-*Coming soon...*
+
+## ✅ Idioms & Figurative Expressions
+
+These are phrases that aren’t literal — they add color to the speech:
+
+- **Come off as something**
+- **FOMO** → Fear of missing out
+- **You need to grind harder**
+- **On my radar** — in my awareness
+- **In light of sth** → taking something into consideration → *in light of new evidence*
+- **Look up** (as in *I look up not long later*) — figuratively, to notice or realize
+- **Hooked on this thing** — addicted to
+- **Back it up** — support it with evidence
+- **Push in some more reality** — cut through hype, reveal facts
+- **Hipster or hermit?** — rhetorical expression, figurative comparison
+- **Riding to work on a horse** — old-fashioned behavior
+- **Write your own ticket** — create your own opportunities
+- **The canary in the coal mine** — early warning sign
+- **Pull together these threads** — summarize multiple ideas
+- **Slot machine in your phone** — metaphor for addictive social media design
+- **Short-circuit the brain** — disrupt normal mental function
+- **Pull that handle all day long** — figurative for compulsive behavior
+- **Treat your attention with respect** — figurative
+- **Scathing but accurate critiques** — biting criticism
+- **Life without social media is not so bad** — understatement with idiomatic tone
+- **Write your own ticket** — take charge of your future
+- **Old-fashioned** — idiomatic tone here for lifestyle description
+- **Direct your comments towards Twitter** — tongue-in-cheek way to end
+
+---
+
+## ✅ Advanced & Upper-Intermediate Vocabulary
+
+These are words/phrases at B2/C1 or higher — good for learners to notice:
+
+- **Millennial**
+- **Somewhat random**
+- **Sophomore**
+- **Bust** (as in *dotcom bust*)
+- **Objectivity**
+- **Serendipitously**
+- **Sustainability**
+- **Objection**
+- **Defuse the hype**
+- **Leverages**
+- **Controversial**
+- **Addictive**
+- **Unsavory**
+- **Attention engineers**
+- **Epitome**
+- **Ambiguous data**
+- **Prose**
+- **Fixate**
+- **Strands of evidence**
+- **Hone skills**
+- **Ubiquitous**
+- **Intermittent rewards**
+- **Cognitive consequences**
+- **Pervasive**
+- **Anxiety-related disorders**
+- **Mismatch**
+- **Non-trivial harms**
+- **Detox process**
+- **Restorative**
+- **Calculus** (figuratively: cost-benefit analysis)
+- **Scathing**
+- **Embrace** (adopt something new)
+- **Confront head-on**
+- **Fragmented attention**
+
 
 ## Session 4
 *Coming soon...*
