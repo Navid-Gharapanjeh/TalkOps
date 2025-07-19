@@ -1,10 +1,12 @@
 # Extra Resources for Street English Sessions
 
 ## Session 1
-*Coming soon...*
+I'm cumming 
+but not right now ! 
 
 ## Session 2
 ### AI & The Future of Jobs
+
 
 #### 🎧 BBC 6 Minute English: Future of Work
 **Additional Listening:** [BBC 6 Minute English - Future of Work](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
