@@ -1,8 +1,7 @@
 # Extra Resources for Street English Sessions
 
 ## Session 1
-I'm cumming 
-but not right now ! 
+:)
 
 ## Session 2
 ### AI & The Future of Jobs
