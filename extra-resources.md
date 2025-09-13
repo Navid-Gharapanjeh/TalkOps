@@ -118,67 +118,87 @@ These are words/phrases at B2/C1 or higher — good for learners to notice:
 
 ## Session 5
 
-1. "demanding job"
-    ◦ Meaning: A job that requires a lot of effort, skill, or time; challenging.
-    ◦ Usage: This is a common and useful collocation for describing jobs that are difficult or high-pressure.
-    ◦ Example from script: "I left a very demanding job in management consulting for a job that was even more demanding: teaching."
-2. "struck me"
-    ◦ Meaning: An idea or observation that came to mind suddenly or made a strong impression.
-    ◦ Usage: A more formal and impactful way to say "I noticed" or "what impressed me."
-    ◦ Example from script: "What struck me was that IQ was not the only difference between my best and my worst students."
-3. "stratospheric IQ scores"
-    ◦ Meaning: Extremely high, exceptionally intelligent (referencing the stratosphere, the layer of the atmosphere above the troposphere, implying great height).
-    ◦ Usage: A vivid and descriptive adjective to emphasize an incredibly high level. It's often used hyperbolically.
-    ◦ Example from script: "Some of my strongest performers did not have stratospheric IQ scores."
-4. "firmly convinced"
-    ◦ Meaning: Absolutely sure or certain.
-    ◦ Usage: This emphasizes a strong and unwavering belief. "Firmly" acts as an intensifier.
-    ◦ Example from script: "And I was firmly convinced that every one of my students could learn the material if they worked hard and long enough."
-5. "came to the conclusion"
-    ◦ Meaning: Reached a decision or judgment after thought or investigation.
-    ◦ Usage: A more formal and complete way to say "I concluded" or "I decided."
-    ◦ Example from script: "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students..."
-6. "much more than your ability to learn quickly and easily"
-    ◦ Meaning: Implies that success requires additional, deeper qualities beyond mere intellectual speed.
-    ◦ Usage: This structure emphasizes a qualitative difference, suggesting something more profound is at play.
-    ◦ Example from script: "But what if doing well in school and in life depends on much more than your ability to learn quickly and easily?"
-7. "super challenging settings"
-    ◦ Meaning: Extremely difficult or demanding environments or situations.
-    ◦ Usage: "Super" as an intensifier is common in informal to semi-formal speech, making "super challenging" an expressive way to describe highly difficult scenarios.
-    ◦ Example from script: "I started studying kids and adults in all kinds of super challenging settings..."
-8. "emerged as a significant predictor"
-    ◦ Meaning: Appeared or became known as an important factor that indicates a future outcome.
-    ◦ Usage: A formal and academic way to describe the result of research, highlighting the importance of a discovery.
-    ◦ Example from script: "In all those very different contexts, one characteristic emerged as a significant predictor of success."
-9. "unrelated or even inversely related to measures of talent"
-    ◦ Meaning: Having no connection, or actually having an opposite connection, to how talented someone is.
-    ◦ Usage: This is a precise statistical or academic phrase. "Inversely related" means that as one factor increases, the other tends to decrease.
-    ◦ Example from script: "In fact, in our data, grit is usually unrelated or even inversely related to measures of talent."
-10. "persevere when they fail"
-    ◦ Meaning: To continue doing something or trying to achieve something despite difficulties or initial setbacks.
-    ◦ Usage: "Persevere" is a key term in the context of grit, meaning to persist.
-    ◦ Example from script: "...they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition."
-Idioms and Figurative Language:
-1. "living life like it's a marathon, not a sprint"
-    ◦ Meaning: Approaching life with the understanding that success requires sustained, long-term effort and endurance, rather than short bursts of intense but brief activity.
-    ◦ Usage: A powerful metaphor to describe the nature of long-term commitment and perseverance.
-    ◦ Example from script: "Grit is living life like it's a marathon, not a sprint."
-2. "follow through on their commitments"
-    ◦ Meaning: To complete an action or promise that one has started or made.
-    ◦ Usage: A common idiom for fulfilling obligations or seeing tasks to completion.
-    ◦ Example from script: "Our data show very clearly that there are many talented individuals who simply do not follow through on their commitments."
-3. "the work that stands before us"
-    ◦ Meaning: The task, challenge, or responsibility that lies ahead and needs to be addressed.
-    ◦ Usage: A slightly more formal and evocative way to refer to future work or a current challenge.
-    ◦ Example from script: "That's the work that stands before us."
-4. "start over again with lessons learned"
-    ◦ Meaning: To begin something anew, using knowledge or insights gained from previous mistakes or experiences.
-    ◦ Usage: This phrase emphasizes learning from failure and applying that knowledge to a new attempt.
-    ◦ Example from script: "We have to be willing to fail, to be wrong, to start over again with lessons learned."
-5. "be gritty about getting our kids grittier"
-    ◦ Meaning: To demonstrate perseverance and passion in the pursuit of fostering grit in children. This is a clever play on the word "grit" itself.
-    ◦ Usage: This is an example of using a key concept from the talk (grit) in a self-referential and impactful way.
-    ◦ Example from script: "In other words, we need to be gritty about getting our kids grittier."
+# Vocabulary and Phrases
+
+1. **"demanding job"**  
+   - **Meaning:** A job that requires a lot of effort, skill, or time; challenging.  
+   - **Usage:** This is a common and useful collocation for describing jobs that are difficult or high-pressure.  
+   - **Example from script:** "I left a very demanding job in management consulting for a job that was even more demanding: teaching."
+
+2. **"struck me"**  
+   - **Meaning:** An idea or observation that came to mind suddenly or made a strong impression.  
+   - **Usage:** A more formal and impactful way to say "I noticed" or "what impressed me."  
+   - **Example from script:** "What struck me was that IQ was not the only difference between my best and my worst students."
+
+3. **"stratospheric IQ scores"**  
+   - **Meaning:** Extremely high, exceptionally intelligent (referencing the stratosphere, implying great height).  
+   - **Usage:** A vivid and descriptive adjective to emphasize an incredibly high level, often used hyperbolically.  
+   - **Example from script:** "Some of my strongest performers did not have stratospheric IQ scores."
+
+4. **"firmly convinced"**  
+   - **Meaning:** Absolutely sure or certain.  
+   - **Usage:** This emphasizes a strong and unwavering belief. "Firmly" acts as an intensifier.  
+   - **Example from script:** "And I was firmly convinced that every one of my students could learn the material if they worked hard and long enough."
+
+5. **"came to the conclusion"**  
+   - **Meaning:** Reached a decision or judgment after thought or investigation.  
+   - **Usage:** A more formal and complete way to say "I concluded" or "I decided."  
+   - **Example from script:** "After several more years of teaching, I came to the conclusion that what we need in education is a much better understanding of students..."
+
+6. **"much more than your ability to learn quickly and easily"**  
+   - **Meaning:** Implies that success requires additional, deeper qualities beyond mere intellectual speed.  
+   - **Usage:** This structure emphasizes a qualitative difference, suggesting something more profound is at play.  
+   - **Example from script:** "But what if doing well in school and in life depends on much more than your ability to learn quickly and easily?"
+
+7. **"super challenging settings"**  
+   - **Meaning:** Extremely difficult or demanding environments or situations.  
+   - **Usage:** "Super" as an intensifier is common in informal to semi-formal speech.  
+   - **Example from script:** "I started studying kids and adults in all kinds of super challenging settings..."
+
+8. **"emerged as a significant predictor"**  
+   - **Meaning:** Appeared or became known as an important factor that indicates a future outcome.  
+   - **Usage:** A formal and academic way to describe the result of research, highlighting the importance of a discovery.  
+   - **Example from script:** "In all those very different contexts, one characteristic emerged as a significant predictor of success."
+
+9. **"unrelated or even inversely related to measures of talent"**  
+   - **Meaning:** Having no connection, or actually having an opposite connection, to how talented someone is.  
+   - **Usage:** This is a precise statistical or academic phrase. "Inversely related" means that as one factor increases, the other decreases.  
+   - **Example from script:** "In fact, in our data, grit is usually unrelated or even inversely related to measures of talent."
+
+10. **"persevere when they fail"**  
+    - **Meaning:** To continue trying despite difficulties or setbacks.  
+    - **Usage:** "Persevere" is key in the context of grit, meaning persistence.  
+    - **Example from script:** "...they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition."
+
+---
+
+# Idioms and Figurative Language
+
+1. **"living life like it's a marathon, not a sprint"**  
+   - **Meaning:** Success requires sustained, long-term effort and endurance rather than brief bursts of intensity.  
+   - **Usage:** A powerful metaphor for long-term commitment and perseverance.  
+   - **Example from script:** "Grit is living life like it's a marathon, not a sprint."
+
+2. **"follow through on their commitments"**  
+   - **Meaning:** To complete a promise or action one has started.  
+   - **Usage:** Common idiom for fulfilling obligations.  
+   - **Example from script:** "Our data show very clearly that there are many talented individuals who simply do not follow through on their commitments."
+
+3. **"the work that stands before us"**  
+   - **Meaning:** The challenge or task ahead.  
+   - **Usage:** A formal and evocative way to refer to upcoming responsibilities.  
+   - **Example from script:** "That's the work that stands before us."
+
+4. **"start over again with lessons learned"**  
+   - **Meaning:** Begin anew, applying lessons from past experiences.  
+   - **Usage:** Emphasizes growth from failure.  
+   - **Example from script:** "We have to be willing to fail, to be wrong, to start over again with lessons learned."
+
+5. **"be gritty about getting our kids grittier"**  
+   - **Meaning:** Show perseverance and passion in fostering grit in children.  
+   - **Usage:** A clever, impactful play on the word "grit."  
+   - **Example from script:** "In other words, we need to be gritty about getting our kids grittier."
+
 
 
 ## Session 6
