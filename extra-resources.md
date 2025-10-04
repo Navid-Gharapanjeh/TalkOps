@@ -205,7 +205,80 @@ These are words/phrases at B2/C1 or higher — good for learners to notice:
 *Coming soon...*
 
 ## Session 7
-*Coming soon...*
+# Advanced Sentence Structure & Phrasing
+
+| Structure / Phrase | Explanation | Source |
+|--------------------|-------------|--------|
+| how the handful of people working at a handful of technology companies through their choices will steer what a billion people are thinking today. | Complex sentence structure using a sophisticated noun phrase ("handful of people working at a handful of companies") followed by a modal verb ("will steer") to govern a dependent clause ("what a billion people are thinking"). |  |
+| If you swipe over that notification, it schedules you into spending a little bit of time getting sucked into something... | Advanced conditional structure paired with figurative language ("schedules you into") and a phrasal passive ("getting sucked into"). |  |
+| The reason it feels like it's sucking us in the way it is is because of this race for attention. | Use of the "The reason... is because" construction for emphasis, often seen in high-level speaking. |  |
+| In other words, what they just did is they gave two people something they don't want to lose. | Advanced phrasing for rhetorical connection and emphasis, preceding a definition or explanation. |  |
+| what this misses is that in the 1970s, when you were just gossiping on the telephone, there wasn't a hundred engineers on the other side... | Use of the focused noun clause ("What this misses is...") to introduce the central argument or distinction. |  |
+| whether you'd want to or not, you actually benefit when there's outrage. | Use of the formal linking phrase "whether... or not" to cover two possibilities. Note the contracted conditional "you'd" (you would). |  |
+| It's not just taking away our agency... it's changing the way that we have our conversations, it's changing our democracy... | Use of parallel structure (anaphora with "it's changing...") for rhetorical impact. |  |
+| The only form of ethical persuasion that exists is when the goals of the persuader are aligned with the goals of the persuadee. | Highly formal, definitive statement structure using abstract nouns (persuader, persuadee, persuasion). |  |
+| It's almost like a new period of human history, like the Enlightenment, but almost a kind of self-aware Enlightenment, that we can be persuaded... | Sophisticated comparative language and complex conceptual framing. |  |
+| The most complex challenges in the world require not just us to use our attention individually. They require us to use our attention and coordinate it together. | Contrasting parallel structure ("not just... they require...") highlighting individual vs collective action. |  |
+| If we could implant that more nuanced view of human nature in every design, would that be a step forward? | Second Conditional to pose a hypothetical design philosophy shift. |  |
+
+---
+
+# Advanced Vocabulary
+
+| Word / Term | Part of Speech / Context | Source |
+|-------------|--------------------------|--------|
+| design ethicist | Noun (Specialized terminology) |  |
+| ethically steer | Adverb + Verb Collocation |  |
+| blue sky opportunity | Collocation/Idiom (unlimited potential) |  |
+| persuasive techniques | Adjective + Noun Collocation |  |
+| maximize | Verb (Formal; business/tech) |  |
+| market share | Noun (Business/Economics jargon) |  |
+| evolving at random | Verb + Prepositional Phrase Collocation |  |
+| double bind | Noun (Psychological term) |  |
+| orchestrated | Verb (Figurative: strategically arranged) |  |
+| outrage | Noun (Abstract emotional state) |  |
+| accountable to | Adjective + Preposition (Responsibility) |  |
+| susceptible | Adjective (Vulnerable to influence) |  |
+| agency | Noun (Capacity to act independently) |  |
+| radical changes | Adjective + Noun Collocation |  |
+| persuadable / persuadee / persuader | Adjective / Noun family variants |  |
+| transparent | Adjective (Open, inspectable) |  |
+| design renaissance | Collocation (Revival of human-centered design) |  |
+| empowering | Adjective/Gerund (Granting capability) |  |
+| time well spent | Fixed Collocation (Core conceptual motif) |  |
+| alleviating | Verb (Reducing severity) |  |
+| handicapping | Verb (Constraining potential) |  |
+| superhuman ability | Adjective + Noun Collocation |  |
+| coordinate | Verb (Align and synchronize) |  |
+| nuanced view | Adjective + Noun Collocation |  |
+| optimize for | Verb + Preposition (Performance targeting) |  |
+| visceral | Adjective (Deep, instinctive) |  |
+| covert ways | Adjective + Noun Collocation (Hidden methods) |  |
+| no shortage of good intent | Fixed Phrase |  |
+| unintended consequences | Collocation (Unplanned outcomes) |  |
+| runaway artificial intelligences | Collocation (Uncontrolled AI systems) |  |
+| critical infrastructure | Collocation (Essential systems backbone) |  |
+
+---
+
+# Conversational / Figurative Language & Idioms
+
+| Expression | Type | Source |
+|-----------|------|--------|
+| hunched over a desk | Descriptive phrasing |  |
+| getting sucked into | Idiomatic phrasal verb (becoming engrossed) |  |
+| little blocks of time | Figurative temporal metaphor |  |
+| go lower / race to the bottom | Idiom (Degrading competition) |  |
+| brain stem | Figurative biological reference (primal instinct) |  |
+| right underneath our noses | Idiom (Obvious yet unnoticed) |  |
+| empty messages back and forth | Figurative critique of shallow interaction |  |
+| colonize new planets | Metaphor (Escapist futurism) |  |
+| get a little bit wiser about this | Conversational phrasing (incremental insight) |  |
+| lizard brain | Informal neuro-metaphor (primitive drives) |  |
+| hooked on the screen | Idiom (Compulsively engaged) |  |
+
+---
+
 
 ## Session 8
 *Coming soon...*
