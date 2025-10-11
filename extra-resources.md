@@ -205,77 +205,195 @@ These are words/phrases at B2/C1 or higher — good for learners to notice:
 *Coming soon...*
 
 ## Session 7
-# Advanced Sentence Structure & Phrasing
+# 🧠 Vocabulary & Discussion Guide — Tristan Harris TED Talk
+**Talk:** *“How a handful of tech companies control billions of minds every day”* — Tristan Harris
 
-| Structure / Phrase | Explanation | Source |
-|--------------------|-------------|--------|
-| how the handful of people working at a handful of technology companies through their choices will steer what a billion people are thinking today. | Complex sentence structure using a sophisticated noun phrase ("handful of people working at a handful of companies") followed by a modal verb ("will steer") to govern a dependent clause ("what a billion people are thinking"). |  |
-| If you swipe over that notification, it schedules you into spending a little bit of time getting sucked into something... | Advanced conditional structure paired with figurative language ("schedules you into") and a phrasal passive ("getting sucked into"). |  |
-| The reason it feels like it's sucking us in the way it is is because of this race for attention. | Use of the "The reason... is because" construction for emphasis, often seen in high-level speaking. |  |
-| In other words, what they just did is they gave two people something they don't want to lose. | Advanced phrasing for rhetorical connection and emphasis, preceding a definition or explanation. |  |
-| what this misses is that in the 1970s, when you were just gossiping on the telephone, there wasn't a hundred engineers on the other side... | Use of the focused noun clause ("What this misses is...") to introduce the central argument or distinction. |  |
-| whether you'd want to or not, you actually benefit when there's outrage. | Use of the formal linking phrase "whether... or not" to cover two possibilities. Note the contracted conditional "you'd" (you would). |  |
-| It's not just taking away our agency... it's changing the way that we have our conversations, it's changing our democracy... | Use of parallel structure (anaphora with "it's changing...") for rhetorical impact. |  |
-| The only form of ethical persuasion that exists is when the goals of the persuader are aligned with the goals of the persuadee. | Highly formal, definitive statement structure using abstract nouns (persuader, persuadee, persuasion). |  |
-| It's almost like a new period of human history, like the Enlightenment, but almost a kind of self-aware Enlightenment, that we can be persuaded... | Sophisticated comparative language and complex conceptual framing. |  |
-| The most complex challenges in the world require not just us to use our attention individually. They require us to use our attention and coordinate it together. | Contrasting parallel structure ("not just... they require...") highlighting individual vs collective action. |  |
-| If we could implant that more nuanced view of human nature in every design, would that be a step forward? | Second Conditional to pose a hypothetical design philosophy shift. |  |
+This guide includes key expressions, idioms, and phrasal verbs from the talk, along with definitions, synonyms, and natural example sentences.
 
 ---
 
-# Advanced Vocabulary
+## 🔑 Key Expressions & Phrasal Verbs
 
-| Word / Term | Part of Speech / Context | Source |
-|-------------|--------------------------|--------|
-| design ethicist | Noun (Specialized terminology) |  |
-| ethically steer | Adverb + Verb Collocation |  |
-| blue sky opportunity | Collocation/Idiom (unlimited potential) |  |
-| persuasive techniques | Adjective + Noun Collocation |  |
-| maximize | Verb (Formal; business/tech) |  |
-| market share | Noun (Business/Economics jargon) |  |
-| evolving at random | Verb + Prepositional Phrase Collocation |  |
-| double bind | Noun (Psychological term) |  |
-| orchestrated | Verb (Figurative: strategically arranged) |  |
-| outrage | Noun (Abstract emotional state) |  |
-| accountable to | Adjective + Preposition (Responsibility) |  |
-| susceptible | Adjective (Vulnerable to influence) |  |
-| agency | Noun (Capacity to act independently) |  |
-| radical changes | Adjective + Noun Collocation |  |
-| persuadable / persuadee / persuader | Adjective / Noun family variants |  |
-| transparent | Adjective (Open, inspectable) |  |
-| design renaissance | Collocation (Revival of human-centered design) |  |
-| empowering | Adjective/Gerund (Granting capability) |  |
-| time well spent | Fixed Collocation (Core conceptual motif) |  |
-| alleviating | Verb (Reducing severity) |  |
-| handicapping | Verb (Constraining potential) |  |
-| superhuman ability | Adjective + Noun Collocation |  |
-| coordinate | Verb (Align and synchronize) |  |
-| nuanced view | Adjective + Noun Collocation |  |
-| optimize for | Verb + Preposition (Performance targeting) |  |
-| visceral | Adjective (Deep, instinctive) |  |
-| covert ways | Adjective + Noun Collocation (Hidden methods) |  |
-| no shortage of good intent | Fixed Phrase |  |
-| unintended consequences | Collocation (Unplanned outcomes) |  |
-| runaway artificial intelligences | Collocation (Uncontrolled AI systems) |  |
-| critical infrastructure | Collocation (Essential systems backbone) |  |
+### 1. **Steer people's thoughts**
+- **Definition:** To influence or guide what people think or believe, often subtly or indirectly.  
+- **Synonyms:** shape, direct, manipulate, guide  
+- **Example:** Social media algorithms can steer people’s thoughts without them even noticing.
 
 ---
 
-# Conversational / Figurative Language & Idioms
+### 2. **Race for attention**
+- **Definition:** The intense competition among companies to capture and keep users’ focus.  
+- **Synonyms:** attention economy, competition for engagement  
+- **Example:** In today’s digital world, every app is involved in a race for attention.
 
-| Expression | Type | Source |
-|-----------|------|--------|
-| hunched over a desk | Descriptive phrasing |  |
-| getting sucked into | Idiomatic phrasal verb (becoming engrossed) |  |
-| little blocks of time | Figurative temporal metaphor |  |
-| go lower / race to the bottom | Idiom (Degrading competition) |  |
-| brain stem | Figurative biological reference (primal instinct) |  |
-| right underneath our noses | Idiom (Obvious yet unnoticed) |  |
-| empty messages back and forth | Figurative critique of shallow interaction |  |
-| colonize new planets | Metaphor (Escapist futurism) |  |
-| get a little bit wiser about this | Conversational phrasing (incremental insight) |  |
-| lizard brain | Informal neuro-metaphor (primitive drives) |  |
-| hooked on the screen | Idiom (Compulsively engaged) |  |
+---
+
+### 3. **Get sucked into (something)**
+- **Definition:** To become deeply involved or absorbed in something, often unintentionally.  
+- **Synonyms:** be drawn into, become absorbed in, get hooked on  
+- **Example:** I just wanted to check one video but got sucked into watching YouTube for hours.
+
+---
+
+### 4. **Evolve at random**
+- **Definition:** To develop without any clear plan, order, or purpose.  
+- **Synonyms:** change unpredictably, develop by chance  
+- **Example:** Technology doesn’t evolve at random—it follows the goals set by designers.
+
+---
+
+### 5. **Go in a direction**
+- **Definition:** To develop or progress toward a particular result.  
+- **Synonyms:** move toward, develop into  
+- **Example:** Harris argues that technology is going in a direction driven by the need for attention.
+
+---
+
+### 6. **Race to the bottom (of the brainstem)**
+- **Definition:** A situation where companies compete by using increasingly manipulative or low-level psychological tactics to win attention.  
+- **Synonyms:** decline in standards, moral downfall  
+- **Example:** Social media platforms are caught in a race to the bottom for engagement.
+
+---
+
+### 7. **Give (someone) something they don’t want to lose**
+- **Definition:** To create a reward system that makes people emotionally invested in keeping it.  
+- **Synonyms:** hook, trap, tie emotionally  
+- **Example:** Snapstreaks give users something they don’t want to lose, keeping them constantly active.
+
+---
+
+### 8. **Miss the point**
+- **Definition:** To fail to understand the main idea or important aspect of something.  
+- **Synonyms:** misunderstand, overlook the essence  
+- **Example:** Comparing Snapchat to phone calls misses the point—it ignores how the design manipulates behavior.
+
+---
+
+### 9. **Walk into (the control room)**
+- **Definition:** To enter or gain access to a place or situation of influence.  
+- **Synonyms:** gain access to, enter  
+- **Example:** Advertisers can walk into the control room of social media by paying for targeted ads.
+
+---
+
+### 10. **Be accountable to (someone/something)**
+- **Definition:** To be responsible or answerable to a person or group.  
+- **Synonyms:** be answerable, be responsible  
+- **Example:** Harris says the newsfeed control room is not accountable to users but to advertisers.
+
+---
+
+### 11. **Take away our agency**
+- **Definition:** To remove people’s ability to make free, independent choices.  
+- **Synonyms:** strip of freedom, limit autonomy  
+- **Example:** Constant notifications take away our agency to focus on what truly matters.
+
+---
+
+### 12. **Get serious for a moment**
+- **Definition:** To shift tone from casual or theoretical to serious and sincere.  
+- **Synonyms:** speak frankly, be real  
+- **Example:** Let’s get serious for a moment—technology isn’t neutral anymore.
+
+---
+
+### 13. **Hold accountable**
+- **Definition:** To make someone responsible for their actions or decisions.  
+- **Synonyms:** demand responsibility, enforce accountability  
+- **Example:** Society needs systems to hold tech companies accountable for their designs.
+
+---
+
+### 14. **Be aligned with**
+- **Definition:** To be in agreement or harmony with something.  
+- **Synonyms:** be consistent with, correspond to  
+- **Example:** Ethical persuasion only exists when the goals of the designer are aligned with the goals of the user.
+
+---
+
+### 15. **Tugged into directions**
+- **Definition:** To be pulled or influenced toward multiple conflicting goals or distractions.  
+- **Synonyms:** pulled toward, drawn in multiple ways  
+- **Example:** We’re constantly tugged into different directions by social media notifications.
+
+---
+
+### 16. **Run a find and replace (metaphorically)**
+- **Definition:** To systematically change one pattern of behavior or design into another.  
+- **Synonyms:** swap out, replace, reprogram  
+- **Example:** Harris imagines we could run a find and replace on persuasive design to make it empowering.
+
+---
+
+### 17. **Handicapping our attention**
+- **Definition:** To weaken or restrict our ability to focus.  
+- **Synonyms:** impair, limit, constrain  
+- **Example:** Endless notifications are handicapping our attention spans.
+
+---
+
+### 18. **Get out of control**
+- **Definition:** To become too powerful or difficult to manage.  
+- **Synonyms:** spiral, become chaotic, go beyond control  
+- **Example:** The race for attention has got out of control in today’s tech world.
+
+---
+
+### 19. **Go lower (on the brainstem)**
+- **Definition:** To appeal to people’s most primitive and emotional instincts instead of rational thought.  
+- **Synonyms:** exploit instincts, trigger impulses  
+- **Example:** Platforms go lower on the brainstem to keep us emotionally hooked.
+
+---
+
+### 20. **Be hooked on**
+- **Definition:** To be addicted to or overly dependent on something.  
+- **Synonyms:** addicted to, obsessed with, captivated by  
+- **Example:** Many users are hooked on apps designed to keep them scrolling endlessly.
+
+---
+
+## 💬 Discussion Questions
+
+1. **Control and Awareness**  
+   Harris says a few people in tech companies “steer the thoughts of billions.”  
+   > Do you think users are truly aware of how much control technology has over their attention?
+
+2. **Design Ethics**  
+   If you were a designer at a company like Google or Facebook:  
+   > How would you balance creating engaging products with protecting users from manipulation?
+
+3. **The Race for Attention**  
+   Harris describes a “race to the bottom of the brainstem.”  
+   > Is it possible for tech companies to compete ethically for attention, or is manipulation inevitable?
+
+4. **Responsibility**  
+   > Should tech companies be legally responsible for the psychological impact their designs have on users? Why or why not?
+
+5. **Personal Agency**  
+   Harris argues that technology takes away our ability to choose how we spend our time.  
+   > Do you feel in control of your attention, or do apps subtly dictate your behavior?
+
+6. **Social Impact**  
+   > How has persuasive technology changed the quality of our relationships and conversations in daily life?
+
+7. **Outrage and Misinformation**  
+   Outrage keeps us scrolling and sharing.  
+   > How can we resist emotional manipulation while staying informed?
+
+8. **The Business Model**  
+   Harris says the problem comes from the advertising-based business model.  
+   > What alternative models could make technology more humane?
+
+9. **Redesigning Technology**  
+   Harris imagines apps that help us live better lives.  
+   > What would a “time well spent” social media platform look like to you?
+
+10. **Collective Attention**  
+    Harris connects attention to solving global problems like climate change.  
+    > Do you agree that scattered attention is one of society’s biggest barriers to progress?
+
 
 ---
 
