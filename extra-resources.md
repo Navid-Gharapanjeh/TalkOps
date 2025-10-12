@@ -399,7 +399,25 @@ This guide includes key expressions, idioms, and phrasal verbs from the talk, al
 
 
 ## Session 8
-*Coming soon...*
+## IELTS-Style Discussion Questions on Creativity
+
+Here are **10 discussion questions** based on the subtitles you provided. These are designed to encourage **speaking** and **critical thinking**:
+
+1. What challenges do writers face after achieving major success, according to the speaker?  
+2. Why does the speaker believe that creativity is often linked with mental instability?  
+3. How did ancient societies view creativity differently compared to modern perspectives?  
+4. What psychological advantage did the idea of a “genius” or “daemon” give to ancient artists?  
+5. Why does the speaker think that the Renaissance view of creativity as coming solely from the individual is problematic?  
+6. How can distancing oneself from the pressures of creative work help an artist continue their craft?  
+7. Describe the story Ruth Stone shared about how poems came to her. What does this tell us about inspiration?  
+8. What lesson did Tom Waits learn about handling creative inspiration and anxiety?  
+9. How does the speaker suggest we should relate to creative impulses to maintain mental well-being?  
+10. What does the story of the moonlight dancers illustrate about moments of transcendence in creative work?
+
+---
+
+Would you like questions tailored more for **writing**, **speaking**, or **both**?  
+Or maybe **questions with sample answers**?
 
 ## Session 9
 *Coming soon...*
